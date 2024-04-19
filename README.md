@@ -1,2 +1,2 @@
-
+#Railway Logistics Simulator
 This project is aimed at simulating and managing railway logistics, including railway stations, connections, junctions, and various train compositions. It provides functionalities to create locomotives, wagons, railway stations, and connections between stations, as well as to perform tasks such as assigning wagons to locomotives, loading cargo/passengers into wagons, etc. The project also includes collision prevention, where only one train can move between two stations at a time, ensuring proper synchronization of all threads.
